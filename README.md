@@ -6,6 +6,8 @@
 [Group Members](#group-members)\
 [Documents](#documents)
 
+## NOTE:
+All setup steps are in the report [Documents](#documents)
 ## Description
 
 This project provides hands-on experience in offensive security, cyber deception using honeypots, security event correlation and analysis through Security Information and Event Management (SIEM), and
